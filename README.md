@@ -1,7 +1,11 @@
-# Pequeño ejemplo de como poder establecer una conexión a Base de Datos SQL Server con Python.
+# Establecer una conexión a Base de Datos SQL Server con Python.
 
-# Primer paso; haber creado tu entorno virtual,
+Pequeño ejemplo de como poder practico en como poder
 
+# Primer paso;
+
+Haber creado tu entorno virtual, para aislar el paquete que debes
+instalar de tus paquetes globales.
 `python -m venv env`
 
 # Activar entorno virtual;
