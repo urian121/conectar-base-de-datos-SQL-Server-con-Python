@@ -23,7 +23,7 @@
 ![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/portada.png)
 
 <p>
-Espero les guste el material 😁, regálame un ** like** 👍 en  **Youtube.**
+Espero les guste el material 😁, regálame un **like** 👍 en  **Youtube.**
 </p>
 
 
