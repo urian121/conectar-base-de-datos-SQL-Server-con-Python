@@ -1,6 +1,4 @@
-## Establecer una conexión a Base de Datos SQL Server con Python.
-
----
+##  Establecer una conexión a Base de Datos SQL Server con Python 🐍.
 
 ###### ###### Pequeño ejemplo práctico en como poder establecer una conexión de Base de Datos entre SQL Server y Python
 
@@ -25,5 +23,7 @@
 ![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/portada.png)
 
 <p>
-Espero les guste el material. 
+Espero les guste el material 😁, regálame un ** like** 👍 en  **Youtube.**
 </p>
+
+
